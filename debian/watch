@@ -1,0 +1,3 @@
+version=3
+opts=dversionmangle=s/\+dfsg//,repack,compression=xz,repacksuffix=+dfsg \
+https://gemwatch.debian.net/blade-sauce_labs_plugin .*/blade-sauce_labs_plugin-(.*).tar.gz

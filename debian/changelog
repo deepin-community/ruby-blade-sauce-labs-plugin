@@ -1,0 +1,12 @@
+ruby-blade-sauce-labs-plugin (0.7.3+dfsg-1.1) unstable; urgency=medium
+
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
+
+ -- Holger Levsen <holger@debian.org>  Tue, 29 Dec 2020 04:19:29 +0100
+
+ruby-blade-sauce-labs-plugin (0.7.3+dfsg-1) unstable; urgency=medium
+
+  * Initial release (Closes: #921499)
+
+ -- Pirate Praveen <praveen@debian.org>  Wed, 06 Feb 2019 13:25:53 +0530
